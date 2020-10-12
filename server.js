@@ -17,7 +17,27 @@ const budget = {
 {
     title: 'Groceries',
     budget: 150
-}
+},
+{
+    title: 'Rent',
+    budget: 600
+},
+{
+    title: 'Clothes',
+    budget: 100
+},
+{
+    title: 'Credit Card',
+    budget: 500
+},
+{
+    title: 'Health',
+    budget: 200
+},
+{
+    title: 'Utilities',
+    budget: 150
+},
 ]
 };
 
